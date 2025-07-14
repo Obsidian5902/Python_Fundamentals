@@ -7,7 +7,7 @@ Topics: - First Program : - HELLO WORLD
 3.operation
 4.Variables
 5.floor division(//)
-6. binary/ octal/ Hexadecimal numbers
+6.binary/ octal/ Hexadecimal numbers
 7.Strings
 8.indexing and slicing in strings
 9. string/Strip/replace/split and count functions
