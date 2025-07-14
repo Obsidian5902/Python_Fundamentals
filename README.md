@@ -4,14 +4,14 @@ The .py Files contains basic python codes that gives an idea of how easy python 
 Topics: - First Program : - HELLO WORLD
 1. User Input
 2. import sys
-3.operation
-4.Variables
-5.floor division(//)
-6.binary/ octal/ Hexadecimal numbers
-7.Strings
-8.indexing and slicing in strings
+3. operation
+4. Variables
+5. floor division(//)
+6. binary/ octal/ Hexadecimal numbers
+7. Strings
+8. indexing and slicing in strings
 9. string/Strip/replace/split and count functions
-10.Lists
+10. Lists
 11. Control Statements
 12. loops(While, While-If, FOR, Nested Loops)
 13. Range Fuction
